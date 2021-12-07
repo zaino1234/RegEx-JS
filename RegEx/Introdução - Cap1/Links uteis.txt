@@ -1,2 +1,0 @@
-Meta Caracteres
-https://tdn.totvs.com/display/tec/RegEx+-+Metacaracteres
